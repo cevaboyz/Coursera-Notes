@@ -1,0 +1,3 @@
+“Reproducibility” refers to instances in which the original researcher's data and computer codes are used to regenerate the results
+
+“replicability” refers to instances in which a researcher collects new data to arrive at the same scientific findings as a previous study.)
